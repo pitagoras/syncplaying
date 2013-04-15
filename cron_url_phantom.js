@@ -4,7 +4,7 @@ var cronJob = require('cron').CronJob;
 // var cronTime = "* * * * * *";
 
 // every  minutes
-var cronTime = "*/9 * * * *";
+var cronTime = "*/1 * * * *";
 
 // every weekday at 11:30:00 AM JST
 // var cronTime = "00 30 11 * * 1-5";
