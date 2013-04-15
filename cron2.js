@@ -12,7 +12,7 @@ var cronTime = "*/1 * * * *";
 // once at the specified date.
 // var cronTime = new Date();
 
-var //page = require('webpage').create(),
+var page = require('webpage').create(),
     system = require('system'),
     t, address;
 
